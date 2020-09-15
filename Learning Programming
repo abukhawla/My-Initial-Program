@@ -1,0 +1,31 @@
+<?php
+echo "Swahili";
+echo "<br>";
+echo "Mothertongue Language";
+echo "<br>";
+echo "Widely spoken in east africa";
+echo "<br>";
+echo "Program date:15.09.2020";
+echo "<br>";
+echo 'SIMPLE MATHEMATICS';
+echo'<br>';
+$age1=20;
+$age2=40;
+echo 'Multiplication equals'; 
+echo '<br>';
+echo $age1*$age2;
+echo '<br>';
+echo 'Division equals';
+echo '<br>';
+echo $age1/$age2;
+echo '<br>';
+echo 'Addition equals';
+echo '<br>';
+echo $age1+$age2;
+echo '<br>';
+echo 'Subtraction equals';
+echo '<br>';
+echo $age1-$age2;
+echo '<br>';
+echo 'SO FAR SO GOOD';
+?>
