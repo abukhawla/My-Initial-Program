@@ -29,3 +29,5 @@ echo $age1-$age2;
 echo '<br>';
 echo 'SO FAR SO GOOD';
 ?>
+
+NEXT CLASS ON "VARIABLES"
