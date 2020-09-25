@@ -34,3 +34,29 @@ Update: Photo + Coloring
 </body>
 
 </html>
+
+UPDATE: Background color+Transparent Photo(New Ayah)+Dotted border.
+
+<!DOCTYPE html>
+
+<html>
+<title>Khalfan's HTML code</title>
+<head>
+<style>
+p.dotted {border-style: dotted;} 
+</style>
+</head>
+<body style="background-color:powderblue;">
+<center>
+<h1 style="color:Red;" "font-size:60px;"><My Trial Home Work</h1>
+<p><h3>Making Of a website</h3></p>
+<a href='https://www.google.com'><h3>Google Search</h3><a/>
+</center>
+<center><img width="10%" height="10%" src="images/New Aayah.png" alt="New Ayah"></img>
+<p> <p style="color:green;"> Hypertext Markup Language is the standard markup language for documents designed to be displayed in a web browser.</br> 
+<p style="color:Blue;" p class="dotted"> It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript.</p>
+</center>
+</body>
+
+</html>
+
