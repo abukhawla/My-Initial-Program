@@ -1,0 +1,44 @@
+body{
+	background-color:lightblue;
+}
+.fani{
+	border:5px solid yellow;
+	text-align:center;
+	background-color:green;
+	color:white;
+	font-family:courier;
+}
+nav {
+	margin-right:20px;
+	width:500px;
+	height:200px;
+	border:2px solid black;
+	padding: 10px;
+	background-color:grey;
+	}
+	
+a{
+	text-decoration:none;
+}
+
+nav li:hover{
+	color: white; transition:0.5s;
+	}	
+	
+section{
+	margin-right:50px;
+	display:flex;
+	
+}
+
+article{
+margin-right:20px;
+color:red;
+}
+footer{
+	text-align:center;
+	border:10px solid grey;
+	background-color:tomato;
+	color:red;
+	font-size:30px;
+}
