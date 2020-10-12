@@ -1,0 +1,49 @@
+body{
+background:red;	
+}
+
+.menu-bar{
+text-align:center;
+background:yellow;	
+}
+
+.menu-bar ul{
+display:flex;	
+}
+
+.menu-bar ul li{
+width:120px;
+margin:20px;
+padding:20px;	
+}
+
+.menu-bar ul li a{
+text-decoration:none;
+color:green;	
+}
+
+.active, .menu-bar ul li:hover{
+background:white;
+border-radius:20px;	
+}
+
+.sub-menu1{
+display:none;
+}
+
+.menu-bar ul li:hover .sub-menu1{
+display:block;
+}
+
+.menu-bar ul li:hover .sub-menu1 ul{
+display:block;
+position:absolute;
+background:yellow;
+}
+
+.menu-bar ul li:hover .sub-menu1{
+display:block;
+position:absolute;
+background:yellow;
+color:red;	
+}
